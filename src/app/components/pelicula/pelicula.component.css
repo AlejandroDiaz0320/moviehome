@@ -1,0 +1,10 @@
+.pokecard {
+  width: 18rem;
+  height: 24rem;
+}
+
+.pokecard div img {
+  object-fit: scale-down;
+  width: 15rem;
+  height: 18rem;
+}
